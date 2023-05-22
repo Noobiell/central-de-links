@@ -1,0 +1,66 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;500;700&display=swap');
+
+:root {
+
+    --roboto: 'Roboto', sans-serif;
+    --branco: #ecebdc;
+    --roxo: #6a37d2;
+
+}
+
+body {
+
+    background: url(../img/bg\ foto.png) no-repeat, #202020;
+    background-size: 100%;
+    height: 100vh;
+    width: 100vw;
+}
+
+.branco {
+    color: var(--branco);
+}
+
+#app {
+    width: 480px;
+}
+
+.imgPerfil {
+    width: 33.3%;
+}
+
+.btnLink {
+    background-color: var(--roxo);
+    padding: .8rem;
+    border-radius: 50px;
+    text-decoration: none;
+    font-size: 1.5rem;
+    text-align: center;
+    transition: .5s;
+    color: var(--branco);
+    font-weight: 500;
+}
+
+.btnLink:hover {
+    background-color: var(--branco);
+    color: var(--roxo);
+}
+
+.imgLogo {
+    width: 50px;
+}
+
+@media screen and (max-width: 500px) {
+
+
+    #app {
+        width: 80%;
+        padding: auto 1rem;
+    }
+
+    .btnLink {
+        padding: .6rem;
+        font-size: 1.2rem;
+    }
+
+
+}
