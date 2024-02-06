@@ -38,10 +38,11 @@
 
         <section class="d-flex flex-column gap-3 mb-5">
 
-            <a href="https://www.instagram.com/froid.dsgn/" target="_blank" class="btnLink"><i class="fa-brands fa-instagram"></i>&nbsp; Instagram</a>
-            <a href="https://www.instagram.com/froid.dsgn/" target="_blank" class="btnLink"><i class="fa-brands fa-square-behance"></i></i>&nbsp; Portfólio</a>
             <a href="https://www.instagram.com/froid.dsgn/" target="_blank" class="btnLink"><i class="fa-brands fa-whatsapp"></i>&nbsp; Whatsapp</a>
+            <a href="https://froiddsgn.com.br/" class="btnLink"><i class="fa-solid fa-globe"></i>&nbsp; Site</a>
             <a href="https://www.instagram.com/froid.dsgn/" target="_blank" class="btnLink"><i class="fa-brands fa-tiktok"></i>&nbsp; Tiktok</a>
+            <a href="https://www.instagram.com/froid.dsgn/" target="_blank" class="btnLink"><i class="fa-brands fa-square-behance"></i></i>&nbsp; Portfólio</a>
+            <a href="https://www.instagram.com/froid.dsgn/" target="_blank" class="btnLink"><i class="fa-brands fa-instagram"></i>&nbsp; Instagram</a>
 
         </section>
 
